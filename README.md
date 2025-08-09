@@ -4,6 +4,6 @@ Bhumi is one of India's largest non-profit organizations, focusing on providing 
 
 [![Dashboard](Dashboard.png)](https://public.tableau.com/app/profile/tom.ragus/viz/BhumiVolunteeringInitiative/BhumiDashboard#1)
 
-I have as of yet not figured out how to embed Tableau dashboards into GitHub in a straightforward way, so for now, check it out on Tableau Public 👉 [here](https://public.tableau.com/app/profile/tom.ragus/viz/BhumiVolunteeringInitiative/BhumiDashboard#1)
+I have as of yet not figured out how to embed Tableau dashboards into GitHub in a straightforward way, so for now, check it out on Tableau Public!  👉 [here](https://public.tableau.com/app/profile/tom.ragus/viz/BhumiVolunteeringInitiative/BhumiDashboard#1)
 
 If you are interested in learning more about the impactful work that Bhumi does, visit their website: https://www.bhumi.ngo/
